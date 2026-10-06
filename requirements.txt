@@ -1,0 +1,8 @@
+numpy
+matplotlib
+sqlalchemy>=2.0
+pygments
+ipython
+ipykernel
+nbformat
+nbclient
